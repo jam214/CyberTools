@@ -1,0 +1,10 @@
+The required python libaries for this program are : 
+requests
+beautifulsoup
+json
+psutil
+datetime
+tabulate
+socket
+Image
+xml.etree.Elementree
