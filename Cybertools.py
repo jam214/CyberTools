@@ -1,11 +1,7 @@
-#SanchezA02.py
+#Cybertools.py
 """
-Name: James Sanchez
-Date: April 22, 2024
-Course: CSEC 1437
-Purpose: To create a menu based program with multiple cyber security tools.
-
-
+Creator: James Sanchez
+Purpose: To create a menu based program with multiple cyber security tool
 """
 
 import requests
