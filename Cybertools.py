@@ -1,6 +1,6 @@
 #Cybertools.py
 """
-Creator: James Sanchez
+Creator: James S.
 Purpose: To create a menu based program with multiple cyber security tools
 """
 
